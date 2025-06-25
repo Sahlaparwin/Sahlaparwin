@@ -16,14 +16,17 @@
 - 🎯 Currently working on: **Habit Hive** — a mobile habit-tracking app  
 - 🎨 I love blending **UI/UX design** with real functionality  
 - 💬 Open to collaborations and learning opportunities  
-- 💡 Life motto: *Do it with passion or not at all*
+- 💡 Life motto: *"Do it with passion or not at all"*
 
 ---
 
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flutter,firebase,html,css,js,figma,canva,github" />
+ <img src="https://skillicons.dev/icons?i=python,flutter,firebase,html,css,js,figma,github" />
+<br />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
 </p>
 
 ---
@@ -50,5 +53,5 @@
 ### 💡 Fun Fact
 
 > I might not have a dozen repositories (yet), but when I do — they'll *slay*.  
-> Until then, welcome to my clean, intentional digital home. ☕✨
+> Until then, welcome to my clean, intentional digital home.✨
 
